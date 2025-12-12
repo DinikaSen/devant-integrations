@@ -1,0 +1,1 @@
+![Diagram](./SummarizedQuote_process_integration.png)

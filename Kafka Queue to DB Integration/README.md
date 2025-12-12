@@ -1,0 +1,1 @@
+![Diagram](./LifeQuestEvents_kafka_integration.png)

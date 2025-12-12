@@ -1,0 +1,4 @@
+[package]
+org = "dinika"
+name = "clientapi"
+version = "0.1.0"

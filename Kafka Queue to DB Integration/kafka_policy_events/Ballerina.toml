@@ -1,0 +1,4 @@
+[package]
+org = "dinika"
+name = "kafka_policy_events"
+version = "0.1.0"
